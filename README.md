@@ -1,4 +1,4 @@
-# Hello 👋
+# Hi! 👋
 I'm Winston, currently pursuing a Diploma in Applied AI & Analytics at Nanyang Polytechnic.  
 I enjoy playing the piano and developing my skills in ML and AI.
 

@@ -3,4 +3,4 @@ I'm Winston, currently pursuing a Diploma in Applied AI & Analytics at Nanyang P
 I enjoy playing the piano and developing my skills in ML and AI.
 
 ## Skills
-[![My Skills](https://skillicons.dev/icons?i=py,sklearn,flask)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,sklearn,flask,discord)](https://skillicons.dev)
